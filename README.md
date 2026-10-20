@@ -1,7 +1,5 @@
 # Micro To Nano
-<a href="https://ali36saadat.github.io/repositories/micro-to-nano">
-  <img src="https://github.com/user-attachments/assets/1ec8e0dc-6340-4f3f-9253-e3be1d5ed581" alt="header">
-</a>
+[![Header](https://github.com/user-attachments/assets/8c906e4d-952e-4bb2-9180-fd68775675b8)](https://ali36saadat.github.io/repositories/micro-to-nano)
 
 ## Description
 ### MicroGrad
