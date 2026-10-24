@@ -8,5 +8,8 @@ A minimal autograd implementing reverse-mode automatic differentiation over dyna
 ### MakeMore
 A character-level autoregressive language model that learns patterns from text and generates new, similar sequences. Supports models ranging from simple bigrams to Transformers, enabling applications such as generating names, words, and other text-like sequences. [Folder](https://github.com/ali36saadat/micro-to-nano/tree/main/makemore)
 
+### GPT
+A Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. [Folder](https://github.com/ali36saadat/micro-to-nano/tree/main/gpt)
+
 ## Links
  **[COURSE LINK](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**  
