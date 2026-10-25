@@ -11,5 +11,10 @@ A character-level autoregressive language model that learns patterns from text a
 ### GPT
 A Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. [Folder](https://github.com/ali36saadat/micro-to-nano/tree/main/gpt)
 
+## Related Repositories
+[Large Language Model](https://github.com/ali36saadat/large-language-model)
+[RLHF](https://github.com/ali36saadat/reinforcement-learning-from-human-feedback)
+
 ## Links
  **[COURSE LINK](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**  
+
