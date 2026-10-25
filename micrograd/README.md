@@ -1,7 +1,2 @@
-# MicroGrad
-
-## Description
-A minimal autograd implementing reverse-mode automatic differentiation over dynamically built DAGs, with scalar-based computation. Includes a lightweight neural network library with a PyTorch-like API, capable of building and training deep neural networks for binary classification. [Block](https://github.com/ali36saadat/micro-to-nano/blob/main/blocks/micrograd.py)
-
-## Links
- **[Video LINK](https://youtu.be/VMj-3S1tku0)**  
+## MicroGrad
+A minimal autograd implementing reverse-mode automatic differentiation over dynamically built DAGs, with scalar-based computation. Includes a lightweight neural network library with a PyTorch-like API, capable of building and training deep neural networks for binary classification. [Block](https://github.com/ali36saadat/micro-to-nano/blob/main/blocks/micrograd.py) | [Video](https://youtu.be/VMj-3S1tku0)
